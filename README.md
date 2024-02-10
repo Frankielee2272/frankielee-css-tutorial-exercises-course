@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-Hi! I'm [Alejandro Sanchez @alesanchezr](https://github.com/alesanchezr), really excited to have you here! 🎉 😂 Learning to code is hard; you need coaching! [DM me on twitter](https://twitter.com/alesanchezr) if you have any questions. 
+Hi! I'm [Frank Trujillo](coachtank@icloud.com), really excited to have you here! 🎉 😂 Learning to code is hard; you need coaching! [DM me on twitter](https://twitter.com/alesanchezr) if you have any questions. 
 
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/css-tutorial-exercises-course/blob/master/README.es.md) :es:*
 <!-- endhide -->
